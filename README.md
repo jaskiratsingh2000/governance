@@ -12,7 +12,7 @@ We follow the GitHub pull-request workflow. More details on how to contibute is 
 
 ### Maintainers of this repository
 
-* [Georg Link](https://github.com/GeorgLink)
+[Georg Link](https://github.com/GeorgLink)
 
 ### How to become a maintainer
 
